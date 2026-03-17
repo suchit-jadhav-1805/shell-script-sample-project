@@ -1,1 +1,4 @@
-x=a+b
+#!/bin/bash
+
+
+#Addition function
